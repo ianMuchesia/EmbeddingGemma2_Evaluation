@@ -146,12 +146,10 @@ def measure_in_fresh_process(model_name):
 
 def measure_in_this_process(model_name):
     import torch  # noqa: F401  (imported before the baseline, like in the app)
-    from sentence_transformers import SentenceTransformer
-
-    from shop.search import product_text
+    from shop.search import load_model, product_text
 
     baseline = measure.process_memory()
-    model = SentenceTransformer(model_name)
+    model = load_model(model_name)
     after_load = measure.process_memory()
 
     model.encode_document([product_text(p) for p in load_products()])

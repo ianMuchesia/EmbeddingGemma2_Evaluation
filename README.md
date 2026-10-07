@@ -46,6 +46,13 @@ Mombasa" → a Kindle). The AI models say no more often, but get fooled by thing
 **5. Mind the cost.** EmbeddingGemma is a 1.5 GB download, uses about 1 GB of memory and took 33 s to
 prepare 200 products on my laptop. At 10,000+ products you would want a GPU.
 
+**About the size.** EmbeddingGemma 2 handles text, images, video and audio (740M parameters in total),
+but text search only needs its 270M-parameter text part. Google quotes ~191 MB of RAM for that part,
+*quantized on a phone*. This test runs it unquantized on a laptop CPU. I checked loading text only
+against loading everything: the embeddings are identical (so the accuracy results don't change), and
+on this laptop it barely saves anything (peak memory ~935 MB vs ~970 MB, ~0.14 s per search either way),
+because the unused image and audio parts were never really loaded. The code now loads text only.
+
 This is a small test, so treat it as a signal, not proof. More charts: [by question type](results/by_type.png),
 [speed](results/speed.png), [cost per model](results/cost.png). Every answer from every setup is in
 [results/results.json](results/results.json).

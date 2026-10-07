@@ -7,13 +7,12 @@ Docs: http://localhost:8000/docs
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, Query
-from sentence_transformers import SentenceTransformer
 
 from shop.compare import Comparer
-from shop.search import DEFAULT_MODEL, ShopSearch, load_products
+from shop.search import ShopSearch, load_model, load_products
 
 # Load EmbeddingGemma once; the shop search and the compare page share it.
-model = SentenceTransformer(DEFAULT_MODEL)
+model = load_model()
 shop = ShopSearch(load_products(), model=model)
 comparer = Comparer(shop.products, model)
 

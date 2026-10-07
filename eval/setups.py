@@ -13,7 +13,7 @@ Typesense's default blend.
 import time
 from dataclasses import dataclass
 
-from shop.search import DEFAULT_MODEL, ShopSearch, product_text
+from shop.search import DEFAULT_MODEL, ShopSearch, load_model, product_text
 from eval import measure
 
 TEXT_FIELDS = "name,brand,category,description"
@@ -234,9 +234,8 @@ class LoadedModel:
 
     def __init__(self, model_name, st=None):
         if st is None:
-            from sentence_transformers import SentenceTransformer
-            print(f"loading {model_name} ...", flush=True)
-            st = SentenceTransformer(model_name)
+            print(f"loading {model_name} (text only) ...", flush=True)
+            st = load_model(model_name)
         self.st = st
         self.name = model_name
         self.dim = st.get_embedding_dimension()

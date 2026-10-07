@@ -21,6 +21,13 @@ DEFAULT_MODEL = "google/embeddinggemma-2"
 DEFAULT_THRESHOLD = 0.65
 # How much an exact product-name match can add on top of the meaning score.
 DEFAULT_NAME_BONUS = 0.10
+# EmbeddingGemma 2 also has image (170M) and audio (300M) encoders. Text search never uses them,
+# so load only the 270M text part (as the model card recommends): same embeddings, far less memory.
+TEXT_ONLY = {"vision_config": None, "audio_config": None}
+
+
+def load_model(model_name=DEFAULT_MODEL):
+    return SentenceTransformer(model_name, config_kwargs=TEXT_ONLY)
 
 
 def load_products(path=DATA_DIR / "products.json"):
@@ -50,7 +57,7 @@ class ShopSearch:
         self.model_name = model_name
         self.threshold = threshold
         self.name_bonus = name_bonus
-        self.model = model or SentenceTransformer(model_name)
+        self.model = model or load_model(model_name)
         # Embed every product once, up front. A real site would save these to disk.
         self.product_vecs = self.model.encode_document([product_text(p) for p in products])
 
