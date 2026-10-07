@@ -1,0 +1,50 @@
+{
+  "created": "2026-10-07T03:50:15+00:00",
+  "environment": {
+    "cpu": "11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz",
+    "cores": 8,
+    "ram_gb": 16.4,
+    "python": "3.11.2",
+    "torch": "2.13.0+cu130",
+    "cuda_available": false,
+    "typesense": null
+  },
+  "families": {
+    "keyword": {
+      "where": "typesense server",
+      "model": null,
+      "before_mb": 174.4,
+      "after_mb": 181.4,
+      "peak_mb": 181.4,
+      "added_mb": 7.0,
+      "peak_added_mb": 7.0
+    },
+    "minilm": {
+      "where": "typesense server",
+      "model": "ts/all-MiniLM-L12-v2",
+      "before_mb": 174.5,
+      "after_mb": 367.9,
+      "peak_mb": 390.8,
+      "added_mb": 193.4,
+      "peak_added_mb": 216.3
+    },
+    "me5": {
+      "where": "typesense server",
+      "model": "ts/multilingual-e5-small",
+      "before_mb": 189.2,
+      "after_mb": 777.9,
+      "peak_mb": 1136.7,
+      "added_mb": 588.7,
+      "peak_added_mb": 947.5
+    },
+    "gemma": {
+      "where": "python process",
+      "model": "google/embeddinggemma-2",
+      "before_mb": 835.5,
+      "after_load_mb": 1222.7,
+      "after_use_mb": 1710.7,
+      "peak_mb": 1808.0,
+      "added_mb": 972.5
+    }
+  }
+}

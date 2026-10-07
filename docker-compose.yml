@@ -1,0 +1,14 @@
+# Local Typesense for the search benchmark.
+#   docker compose up -d        start
+#   docker compose logs -f      watch it (built-in models download here)
+#   docker compose down         stop
+services:
+  typesense:
+    image: typesense/typesense:30.2
+    ports:
+      - "8108:8108"
+    volumes:
+      # Mounted from the project so eval/run.py can measure index and model size on disk.
+      - ./typesense-data:/data
+    # Local-only benchmark key; never expose this port publicly.
+    command: --data-dir /data --api-key=benchmark-local-key --enable-cors

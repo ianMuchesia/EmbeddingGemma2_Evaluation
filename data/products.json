@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max 256GB",
+    "brand": "Apple",
+    "category": "phones",
+    "price": 179999,
+    "currency": "KES",
+    "stock": 2,
+    "description": "Apple's largest flagship phone with a 6.9-inch display, 5x telephoto camera and the longest iPhone battery life."
+  },
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 16 Pro 128GB",
+    "brand": "Apple",
+    "category": "phones",
+    "price": 149999,
+    "currency": "KES",
+    "stock": 16,
+    "description": "Apple flagship phone with a titanium body, triple camera with 5x zoom and a camera control button, ideal for photography and video."
+  },
+  {
+    "id": "iphone-16",
+    "name": "iPhone 16 128GB",
+    "brand": "Apple",
+    "category": "phones",
+    "price": 119999,
+    "currency": "KES",
+    "stock": 7,
+    "description": "Apple smartphone with a 6.1-inch display, 48MP dual camera, action button and USB-C charging."
+  },
+  {
+    "id": "iphone-16e",
+    "name": "iPhone 16e 128GB",
+    "brand": "Apple",
+    "category": "phones",
+    "price": 89999,
+    "currency": "KES",
+    "stock": 35,
+    "description": "The most affordable current iPhone with a single 48MP camera, Face ID and all-day battery."
+  },
+  {
+    "id": "iphone-15-pro",
+    "name": "iPhone 15 Pro 128GB",
+    "brand": "Apple",
+    "category": "phones",
+    "price": 134999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Previous Apple flagship with a titanium body, triple camera with 3x zoom and USB-C."
+  },
+  {
+    "id": "iphone-15",
+    "name": "iPhone 15 128GB",
+    "brand": "Apple",
+    "category": "phones",
+    "price": 104999,
+    "currency": "KES",
+    "stock": 2,
+    "description": "Apple smartphone with a 6.1-inch display, Dynamic Island, dual camera and USB-C charging."
+  },
+  {
+    "id": "iphone-15-plus",
+    "name": "iPhone 15 Plus 128GB",
+    "brand": "Apple",
+    "category": "phones",
+    "price": 119999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Apple smartphone with a large 6.7-inch display and very long battery life."
+  },
+  {
+    "id": "iphone-14",
+    "name": "iPhone 14 128GB",
+    "brand": "Apple",
+    "category": "phones",
+    "price": 89999,
+    "currency": "KES",
+    "stock": 39,
+    "description": "Older-generation Apple smartphone with a 6.1-inch display, dual camera and Lightning port."
+  },
+  {
+    "id": "iphone-se-3",
+    "name": "iPhone SE (3rd generation) 64GB",
+    "brand": "Apple",
+    "category": "phones",
+    "price": 64499,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Compact budget iPhone with a 4.7-inch screen, home button with Touch ID and a single camera."
+  },
+  {
+    "id": "galaxy-s25-ultra",
+    "name": "Samsung Galaxy S25 Ultra 256GB",
+    "brand": "Samsung",
+    "category": "phones",
+    "price": 194999,
+    "currency": "KES",
+    "stock": 35,
+    "description": "Samsung's top Android phone with a built-in S Pen, 200MP camera with 100x space zoom and a titanium frame."
+  },
+  {
+    "id": "galaxy-s25",
+    "name": "Samsung Galaxy S25 128GB",
+    "brand": "Samsung",
+    "category": "phones",
+    "price": 119999,
+    "currency": "KES",
+    "stock": 29,
+    "description": "Compact Samsung flagship with a 6.2-inch AMOLED screen, Galaxy AI features and a triple camera."
+  },
+  {
+    "id": "galaxy-s24",
+    "name": "Samsung Galaxy S24 128GB",
+    "brand": "Samsung",
+    "category": "phones",
+    "price": 104999,
+    "currency": "KES",
+    "stock": 1,
+    "description": "Previous-generation Samsung flagship with a 6.2-inch AMOLED screen and AI photo editing."
+  },
+  {
+    "id": "galaxy-a55",
+    "name": "Samsung Galaxy A55 5G 128GB",
+    "brand": "Samsung",
+    "category": "phones",
+    "price": 67499,
+    "currency": "KES",
+    "stock": 11,
+    "description": "Mid-range Samsung phone with a 120Hz AMOLED screen, IP67 water resistance and a big battery."
+  },
+  {
+    "id": "galaxy-a15",
+    "name": "Samsung Galaxy A15 128GB",
+    "brand": "Samsung",
+    "category": "phones",
+    "price": 26999,
+    "currency": "KES",
+    "stock": 22,
+    "description": "Budget Samsung Android phone with a 6.5-inch screen and a 5000mAh battery that lasts two days."
+  },
+  {
+    "id": "galaxy-z-flip6",
+    "name": "Samsung Galaxy Z Flip6 256GB",
+    "brand": "Samsung",
+    "category": "phones",
+    "price": 164999,
+    "currency": "KES",
+    "stock": 14,
+    "description": "Foldable clamshell phone that folds in half to fit in a small pocket, with a cover screen for selfies."
+  },
+  {
+    "id": "galaxy-z-fold6",
+    "name": "Samsung Galaxy Z Fold6 256GB",
+    "brand": "Samsung",
+    "category": "phones",
+    "price": 284999,
+    "currency": "KES",
+    "stock": 22,
+    "description": "Foldable phone that opens into a 7.6-inch tablet for multitasking and reading."
+  },
+  {
+    "id": "pixel-9-pro",
+    "name": "Google Pixel 9 Pro 128GB",
+    "brand": "Google",
+    "category": "phones",
+    "price": 149999,
+    "currency": "KES",
+    "stock": 25,
+    "description": "Google flagship phone with the best computational photography, 5x telephoto and Gemini AI built in."
+  },
+  {
+    "id": "pixel-9",
+    "name": "Google Pixel 9 128GB",
+    "brand": "Google",
+    "category": "phones",
+    "price": 119999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Google Android phone with a clean software experience, excellent camera and 7 years of updates."
+  },
+  {
+    "id": "pixel-8a",
+    "name": "Google Pixel 8a 128GB",
+    "brand": "Google",
+    "category": "phones",
+    "price": 74999,
+    "currency": "KES",
+    "stock": 39,
+    "description": "Affordable Google phone with a flagship-quality camera and 7 years of Android updates."
+  },
+  {
+    "id": "oneplus-13",
+    "name": "OnePlus 13 256GB",
+    "brand": "OnePlus",
+    "category": "phones",
+    "price": 134999,
+    "currency": "KES",
+    "stock": 3,
+    "description": "Fast Android flagship with 100W charging that fills the battery in about 30 minutes and a Hasselblad camera."
+  },
+  {
+    "id": "oneplus-nord-4",
+    "name": "OnePlus Nord 4 256GB",
+    "brand": "OnePlus",
+    "category": "phones",
+    "price": 67499,
+    "currency": "KES",
+    "stock": 35,
+    "description": "Mid-range Android phone with a metal unibody, very fast charging and a smooth 120Hz display."
+  },
+  {
+    "id": "xiaomi-14-ultra",
+    "name": "Xiaomi 14 Ultra 512GB",
+    "brand": "Xiaomi",
+    "category": "phones",
+    "price": 194999,
+    "currency": "KES",
+    "stock": 25,
+    "description": "Camera-focused flagship with a 1-inch Leica main sensor and four rear cameras for serious photographers."
+  },
+  {
+    "id": "redmi-note-13",
+    "name": "Xiaomi Redmi Note 13 128GB",
+    "brand": "Xiaomi",
+    "category": "phones",
+    "price": 29999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Budget Android phone with a 108MP camera, AMOLED screen and 33W fast charging."
+  },
+  {
+    "id": "tecno-camon-30",
+    "name": "Tecno Camon 30 256GB",
+    "brand": "Tecno",
+    "category": "phones",
+    "price": 37499,
+    "currency": "KES",
+    "stock": 40,
+    "description": "Affordable phone with a 50MP selfie camera, dual SIM and a large 5000mAh battery."
+  },
+  {
+    "id": "infinix-hot-40",
+    "name": "Infinix Hot 40 128GB",
+    "brand": "Infinix",
+    "category": "phones",
+    "price": 22499,
+    "currency": "KES",
+    "stock": 24,
+    "description": "Entry-level dual-SIM Android phone with a big screen and a 5000mAh battery at a low price."
+  },
+  {
+    "id": "nokia-g42",
+    "name": "Nokia G42 5G 128GB",
+    "brand": "Nokia",
+    "category": "phones",
+    "price": 29999,
+    "currency": "KES",
+    "stock": 5,
+    "description": "Durable budget 5G phone that you can repair yourself, with a replaceable battery and screen."
+  },
+  {
+    "id": "motorola-edge-50",
+    "name": "Motorola Edge 50 Pro 256GB",
+    "brand": "Motorola",
+    "category": "phones",
+    "price": 82499,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Curved-screen Android phone with 125W charging and a vegan leather back."
+  },
+  {
+    "id": "itel-a70",
+    "name": "itel A70 128GB",
+    "brand": "itel",
+    "category": "phones",
+    "price": 11999,
+    "currency": "KES",
+    "stock": 19,
+    "description": "Very affordable dual-SIM Android phone with a 6.6-inch screen and a 5000mAh battery."
+  },
+  {
+    "id": "nothing-phone-2a",
+    "name": "Nothing Phone (2a) 128GB",
+    "brand": "Nothing",
+    "category": "phones",
+    "price": 52499,
+    "currency": "KES",
+    "stock": 15,
+    "description": "Stylish mid-range phone with a transparent back, Glyph light notifications and clean Android software."
+  },
+  {
+    "id": "nokia-105",
+    "name": "Nokia 105 (2023)",
+    "brand": "Nokia",
+    "category": "phones",
+    "price": 3999,
+    "currency": "KES",
+    "stock": 25,
+    "description": "Simple button phone for elderly parents with big keys, a torch, FM radio and a battery that lasts for days; works with M-Pesa."
+  },
+  {
+    "id": "airpods-pro-2",
+    "name": "AirPods Pro 2",
+    "brand": "Apple",
+    "category": "headphones",
+    "price": 37499,
+    "currency": "KES",
+    "stock": 24,
+    "description": "Wireless earbuds with active noise cancellation, transparency mode and a hearing aid feature."
+  },
+  {
+    "id": "airpods-4",
+    "name": "AirPods 4",
+    "brand": "Apple",
+    "category": "headphones",
+    "price": 19499,
+    "currency": "KES",
+    "stock": 23,
+    "description": "Open-fit wireless earbuds for iPhone with spatial audio and a small USB-C charging case."
+  },
+  {
+    "id": "airpods-max",
+    "name": "AirPods Max",
+    "brand": "Apple",
+    "category": "headphones",
+    "price": 82499,
+    "currency": "KES",
+    "stock": 18,
+    "description": "Premium over-ear Apple headphones with aluminium cups, noise cancellation and spatial audio."
+  },
+  {
+    "id": "sony-wh1000xm5",
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "headphones",
+    "price": 56999,
+    "currency": "KES",
+    "stock": 5,
+    "description": "Over-ear wireless headphones with industry-leading noise cancelling, great for flights and commuting."
+  },
+  {
+    "id": "sony-wf1000xm5",
+    "name": "Sony WF-1000XM5",
+    "brand": "Sony",
+    "category": "headphones",
+    "price": 41999,
+    "currency": "KES",
+    "stock": 11,
+    "description": "Small wireless earbuds with excellent noise cancelling and high-resolution sound."
+  },
+  {
+    "id": "bose-qc-ultra-headphones",
+    "name": "Bose QuietComfort Ultra Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "price": 64499,
+    "currency": "KES",
+    "stock": 16,
+    "description": "Comfortable over-ear headphones with world-class noise cancellation for long trips."
+  },
+  {
+    "id": "bose-qc-ultra-earbuds",
+    "name": "Bose QuietComfort Ultra Earbuds",
+    "brand": "Bose",
+    "category": "headphones",
+    "price": 44999,
+    "currency": "KES",
+    "stock": 25,
+    "description": "Wireless earbuds with top-tier noise cancellation and immersive audio."
+  },
+  {
+    "id": "galaxy-buds3-pro",
+    "name": "Samsung Galaxy Buds3 Pro",
+    "brand": "Samsung",
+    "category": "headphones",
+    "price": 37499,
+    "currency": "KES",
+    "stock": 36,
+    "description": "Samsung wireless earbuds with noise cancellation and real-time interpreter for Galaxy phones."
+  },
+  {
+    "id": "pixel-buds-pro-2",
+    "name": "Google Pixel Buds Pro 2",
+    "brand": "Google",
+    "category": "headphones",
+    "price": 34499,
+    "currency": "KES",
+    "stock": 21,
+    "description": "Small, light Google earbuds with noise cancellation and Gemini assistant."
+  },
+  {
+    "id": "beats-studio-pro",
+    "name": "Beats Studio Pro",
+    "brand": "Beats",
+    "category": "headphones",
+    "price": 52499,
+    "currency": "KES",
+    "stock": 4,
+    "description": "Over-ear wireless headphones with bold bass, noise cancelling and USB-C lossless audio."
+  },
+  {
+    "id": "beats-fit-pro",
+    "name": "Beats Fit Pro",
+    "brand": "Beats",
+    "category": "headphones",
+    "price": 29999,
+    "currency": "KES",
+    "stock": 3,
+    "description": "Sport earbuds with secure wingtips that stay in during workouts, with noise cancelling."
+  },
+  {
+    "id": "jbl-tune-520bt",
+    "name": "JBL Tune 520BT",
+    "brand": "JBL",
+    "category": "headphones",
+    "price": 7499,
+    "currency": "KES",
+    "stock": 26,
+    "description": "Cheap on-ear Bluetooth headphones with 57 hours of battery and foldable design."
+  },
+  {
+    "id": "jbl-live-pro-2",
+    "name": "JBL Live Pro 2",
+    "brand": "JBL",
+    "category": "headphones",
+    "price": 22499,
+    "currency": "KES",
+    "stock": 14,
+    "description": "True wireless earbuds with adaptive noise cancelling and 40 hours of total playtime."
+  },
+  {
+    "id": "sennheiser-momentum-4",
+    "name": "Sennheiser Momentum 4 Wireless",
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "price": 52499,
+    "currency": "KES",
+    "stock": 37,
+    "description": "Audiophile over-ear wireless headphones with 60-hour battery and detailed sound."
+  },
+  {
+    "id": "soundcore-q30",
+    "name": "Anker Soundcore Life Q30",
+    "brand": "Anker",
+    "category": "headphones",
+    "price": 11999,
+    "currency": "KES",
+    "stock": 21,
+    "description": "Budget over-ear headphones with hybrid noise cancelling and 40 hours of playtime."
+  },
+  {
+    "id": "shokz-openrun-pro",
+    "name": "Shokz OpenRun Pro",
+    "brand": "Shokz",
+    "category": "headphones",
+    "price": 26999,
+    "currency": "KES",
+    "stock": 32,
+    "description": "Bone conduction headphones for running that leave your ears open to hear traffic."
+  },
+  {
+    "id": "jabra-elite-8-active",
+    "name": "Jabra Elite 8 Active",
+    "brand": "Jabra",
+    "category": "headphones",
+    "price": 29999,
+    "currency": "KES",
+    "stock": 30,
+    "description": "Rugged sport earbuds that are sweatproof, waterproof and dustproof for the gym."
+  },
+  {
+    "id": "sony-mdr-zx110",
+    "name": "Sony MDR-ZX110 Wired Headphones",
+    "brand": "Sony",
+    "category": "headphones",
+    "price": 2999,
+    "currency": "KES",
+    "stock": 9,
+    "description": "Very cheap wired on-ear headphones with a 3.5mm jack."
+  },
+  {
+    "id": "apple-earpods-usbc",
+    "name": "Apple EarPods (USB-C)",
+    "brand": "Apple",
+    "category": "headphones",
+    "price": 2999,
+    "currency": "KES",
+    "stock": 36,
+    "description": "Wired earphones with a USB-C connector and built-in remote and microphone."
+  },
+  {
+    "id": "arctis-nova-7",
+    "name": "SteelSeries Arctis Nova 7",
+    "brand": "SteelSeries",
+    "category": "headphones",
+    "price": 26999,
+    "currency": "KES",
+    "stock": 38,
+    "description": "Wireless gaming headset with a retractable microphone for PC, PlayStation and Switch."
+  },
+  {
+    "id": "hyperx-cloud-iii",
+    "name": "HyperX Cloud III",
+    "brand": "HyperX",
+    "category": "headphones",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 38,
+    "description": "Comfortable wired gaming headset with a detachable noise-cancelling microphone."
+  },
+  {
+    "id": "marshall-major-iv",
+    "name": "Marshall Major IV",
+    "brand": "Marshall",
+    "category": "headphones",
+    "price": 22499,
+    "currency": "KES",
+    "stock": 15,
+    "description": "Iconic on-ear Bluetooth headphones with 80+ hours of battery and wireless charging."
+  },
+  {
+    "id": "macbook-air-13-m3",
+    "name": "MacBook Air 13-inch M3",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 164999,
+    "currency": "KES",
+    "stock": 9,
+    "description": "Thin and light Apple laptop for students and office work with an 18-hour battery and silent fanless design."
+  },
+  {
+    "id": "macbook-air-15-m3",
+    "name": "MacBook Air 15-inch M3",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 194999,
+    "currency": "KES",
+    "stock": 6,
+    "description": "Large-screen thin Apple laptop with a 15.3-inch display and all-day battery life."
+  },
+  {
+    "id": "macbook-pro-14-m4",
+    "name": "MacBook Pro 14-inch M4",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 239999,
+    "currency": "KES",
+    "stock": 8,
+    "description": "Professional Apple laptop with a Liquid Retina XDR display for photo editing and programming."
+  },
+  {
+    "id": "macbook-pro-16-m4-max",
+    "name": "MacBook Pro 16-inch M4 Max",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 524999,
+    "currency": "KES",
+    "stock": 11,
+    "description": "Most powerful Apple laptop for video editing, 3D rendering and machine learning work."
+  },
+  {
+    "id": "dell-xps-13",
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 179999,
+    "currency": "KES",
+    "stock": 28,
+    "description": "Premium compact Windows ultrabook with an edge-to-edge display and aluminium build."
+  },
+  {
+    "id": "dell-inspiron-15",
+    "name": "Dell Inspiron 15",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 82499,
+    "currency": "KES",
+    "stock": 25,
+    "description": "Affordable everyday Windows laptop for browsing, school work and video calls."
+  },
+  {
+    "id": "hp-pavilion-15",
+    "name": "HP Pavilion 15",
+    "brand": "HP",
+    "category": "laptops",
+    "price": 97499,
+    "currency": "KES",
+    "stock": 30,
+    "description": "Mainstream Windows laptop with a full-size keyboard and numeric keypad for home and office."
+  },
+  {
+    "id": "hp-envy-x360",
+    "name": "HP Envy x360 14",
+    "brand": "HP",
+    "category": "laptops",
+    "price": 134999,
+    "currency": "KES",
+    "stock": 36,
+    "description": "2-in-1 convertible Windows laptop with a touchscreen that folds into a tablet and supports a pen."
+  },
+  {
+    "id": "thinkpad-x1-carbon",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 12",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "price": 269999,
+    "currency": "KES",
+    "stock": 1,
+    "description": "Business laptop with a legendary keyboard, very light carbon fibre body and strong security features."
+  },
+  {
+    "id": "ideapad-slim-3",
+    "name": "Lenovo IdeaPad Slim 3",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "price": 67499,
+    "currency": "KES",
+    "stock": 8,
+    "description": "Budget slim Windows laptop for students with a 15.6-inch screen."
+  },
+  {
+    "id": "legion-5",
+    "name": "Lenovo Legion 5 Gaming Laptop",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "price": 194999,
+    "currency": "KES",
+    "stock": 35,
+    "description": "Gaming laptop with an RTX 4060 graphics card and a 165Hz display for modern games."
+  },
+  {
+    "id": "rog-zephyrus-g14",
+    "name": "ASUS ROG Zephyrus G14",
+    "brand": "ASUS",
+    "category": "laptops",
+    "price": 239999,
+    "currency": "KES",
+    "stock": 22,
+    "description": "Compact 14-inch gaming laptop with an RTX graphics card and an OLED display."
+  },
+  {
+    "id": "zenbook-14-oled",
+    "name": "ASUS Zenbook 14 OLED",
+    "brand": "ASUS",
+    "category": "laptops",
+    "price": 149999,
+    "currency": "KES",
+    "stock": 28,
+    "description": "Light Windows laptop with a vivid OLED screen and long battery life for travel."
+  },
+  {
+    "id": "vivobook-15",
+    "name": "ASUS Vivobook 15",
+    "brand": "ASUS",
+    "category": "laptops",
+    "price": 59999,
+    "currency": "KES",
+    "stock": 1,
+    "description": "Cheap everyday Windows laptop for web browsing, email and streaming."
+  },
+  {
+    "id": "acer-aspire-5",
+    "name": "Acer Aspire 5",
+    "brand": "Acer",
+    "category": "laptops",
+    "price": 74999,
+    "currency": "KES",
+    "stock": 17,
+    "description": "Value Windows laptop with a 15.6-inch Full HD screen and a backlit keyboard."
+  },
+  {
+    "id": "acer-chromebook-314",
+    "name": "Acer Chromebook 314",
+    "brand": "Acer",
+    "category": "laptops",
+    "price": 41999,
+    "currency": "KES",
+    "stock": 12,
+    "description": "Simple ChromeOS laptop for kids and school, fast to start with long battery life."
+  },
+  {
+    "id": "acer-nitro-v-15",
+    "name": "Acer Nitro V 15",
+    "brand": "Acer",
+    "category": "laptops",
+    "price": 119999,
+    "currency": "KES",
+    "stock": 7,
+    "description": "Entry-level gaming laptop with an RTX 4050 graphics card at a budget price."
+  },
+  {
+    "id": "msi-katana-15",
+    "name": "MSI Katana 15",
+    "brand": "MSI",
+    "category": "laptops",
+    "price": 149999,
+    "currency": "KES",
+    "stock": 20,
+    "description": "Gaming laptop with an RTX 4070 graphics card and a 144Hz screen."
+  },
+  {
+    "id": "surface-laptop-7",
+    "name": "Microsoft Surface Laptop 7",
+    "brand": "Microsoft",
+    "category": "laptops",
+    "price": 149999,
+    "currency": "KES",
+    "stock": 33,
+    "description": "Copilot+ Windows laptop with a Snapdragon chip, touchscreen and excellent battery life."
+  },
+  {
+    "id": "surface-pro-11",
+    "name": "Microsoft Surface Pro 11",
+    "brand": "Microsoft",
+    "category": "laptops",
+    "price": 149999,
+    "currency": "KES",
+    "stock": 10,
+    "description": "Windows tablet that becomes a laptop with a detachable keyboard, great for note taking with a pen."
+  },
+  {
+    "id": "framework-laptop-13",
+    "name": "Framework Laptop 13",
+    "brand": "Framework",
+    "category": "laptops",
+    "price": 157499,
+    "currency": "KES",
+    "stock": 11,
+    "description": "Modular laptop you can repair and upgrade yourself, with swappable ports."
+  },
+  {
+    "id": "razer-blade-16",
+    "name": "Razer Blade 16",
+    "brand": "Razer",
+    "category": "laptops",
+    "price": 449999,
+    "currency": "KES",
+    "stock": 34,
+    "description": "High-end gaming laptop with an RTX 4090 graphics card and a dual-mode mini-LED display."
+  },
+  {
+    "id": "ipad-10",
+    "name": "iPad (10th generation) 64GB",
+    "brand": "Apple",
+    "category": "tablets",
+    "price": 52499,
+    "currency": "KES",
+    "stock": 39,
+    "description": "Affordable Apple tablet with a 10.9-inch display, good for kids, streaming and schoolwork."
+  },
+  {
+    "id": "ipad-air-m2",
+    "name": "iPad Air 11-inch M2",
+    "brand": "Apple",
+    "category": "tablets",
+    "price": 89999,
+    "currency": "KES",
+    "stock": 2,
+    "description": "Thin and powerful Apple tablet that supports Apple Pencil Pro for drawing and note taking."
+  },
+  {
+    "id": "ipad-pro-m4",
+    "name": "iPad Pro 13-inch M4",
+    "brand": "Apple",
+    "category": "tablets",
+    "price": 194999,
+    "currency": "KES",
+    "stock": 24,
+    "description": "Apple's most powerful tablet with an Ultra Retina OLED display for professional artists."
+  },
+  {
+    "id": "ipad-mini-7",
+    "name": "iPad mini (7th generation)",
+    "brand": "Apple",
+    "category": "tablets",
+    "price": 74999,
+    "currency": "KES",
+    "stock": 20,
+    "description": "Small 8.3-inch Apple tablet that fits in one hand, great for reading and travel."
+  },
+  {
+    "id": "galaxy-tab-s9-fe",
+    "name": "Samsung Galaxy Tab S9 FE",
+    "brand": "Samsung",
+    "category": "tablets",
+    "price": 67499,
+    "currency": "KES",
+    "stock": 16,
+    "description": "Mid-range Android tablet with an included S Pen and water resistance."
+  },
+  {
+    "id": "galaxy-tab-s10-ultra",
+    "name": "Samsung Galaxy Tab S10 Ultra",
+    "brand": "Samsung",
+    "category": "tablets",
+    "price": 179999,
+    "currency": "KES",
+    "stock": 6,
+    "description": "Huge 14.6-inch AMOLED Android tablet for productivity and movies."
+  },
+  {
+    "id": "galaxy-tab-a9",
+    "name": "Samsung Galaxy Tab A9+",
+    "brand": "Samsung",
+    "category": "tablets",
+    "price": 32999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Budget 11-inch Android tablet for watching videos and browsing."
+  },
+  {
+    "id": "lenovo-tab-m11",
+    "name": "Lenovo Tab M11",
+    "brand": "Lenovo",
+    "category": "tablets",
+    "price": 29999,
+    "currency": "KES",
+    "stock": 5,
+    "description": "Affordable family Android tablet with a pen included and a kids mode."
+  },
+  {
+    "id": "fire-hd-10",
+    "name": "Amazon Fire HD 10",
+    "brand": "Amazon",
+    "category": "tablets",
+    "price": 20999,
+    "currency": "KES",
+    "stock": 35,
+    "description": "Cheap 10-inch tablet for streaming movies, reading and Alexa."
+  },
+  {
+    "id": "fire-hd-8-kids",
+    "name": "Amazon Fire HD 8 Kids",
+    "brand": "Amazon",
+    "category": "tablets",
+    "price": 22499,
+    "currency": "KES",
+    "stock": 9,
+    "description": "Kids tablet with a drop-proof case, parental controls and a 2-year worry-free guarantee."
+  },
+  {
+    "id": "kindle-paperwhite",
+    "name": "Kindle Paperwhite",
+    "brand": "Amazon",
+    "category": "tablets",
+    "price": 23999,
+    "currency": "KES",
+    "stock": 36,
+    "description": "Waterproof e-reader with a glare-free screen for reading books in sunlight and weeks of battery."
+  },
+  {
+    "id": "kindle-scribe",
+    "name": "Kindle Scribe",
+    "brand": "Amazon",
+    "category": "tablets",
+    "price": 59999,
+    "currency": "KES",
+    "stock": 34,
+    "description": "Large e-reader you can also write on with a pen, for reading and handwritten notes."
+  },
+  {
+    "id": "sun-king-home-60",
+    "name": "Sun King Home 60 Solar Kit",
+    "brand": "Sun King",
+    "category": "power",
+    "price": 19499,
+    "currency": "KES",
+    "stock": 28,
+    "description": "Solar home system with a panel, three lights, a radio and phone charging for homes off the grid or during blackouts."
+  },
+  {
+    "id": "xiaomi-pad-6",
+    "name": "Xiaomi Pad 6",
+    "brand": "Xiaomi",
+    "category": "tablets",
+    "price": 52499,
+    "currency": "KES",
+    "stock": 35,
+    "description": "Android tablet with a 144Hz display and quad speakers at a mid-range price."
+  },
+  {
+    "id": "apple-watch-series-10",
+    "name": "Apple Watch Series 10",
+    "brand": "Apple",
+    "category": "wearables",
+    "price": 59999,
+    "currency": "KES",
+    "stock": 13,
+    "description": "Smartwatch that tracks fitness, heart rate and sleep, and shows iPhone notifications."
+  },
+  {
+    "id": "apple-watch-ultra-2",
+    "name": "Apple Watch Ultra 2",
+    "brand": "Apple",
+    "category": "wearables",
+    "price": 119999,
+    "currency": "KES",
+    "stock": 26,
+    "description": "Rugged titanium smartwatch for diving, hiking and endurance sports with precise GPS."
+  },
+  {
+    "id": "apple-watch-se",
+    "name": "Apple Watch SE",
+    "brand": "Apple",
+    "category": "wearables",
+    "price": 37499,
+    "currency": "KES",
+    "stock": 24,
+    "description": "Affordable Apple smartwatch with fall detection, crash detection and fitness tracking."
+  },
+  {
+    "id": "galaxy-watch-7",
+    "name": "Samsung Galaxy Watch7",
+    "brand": "Samsung",
+    "category": "wearables",
+    "price": 44999,
+    "currency": "KES",
+    "stock": 34,
+    "description": "Android smartwatch with health tracking, sleep coaching and Samsung phone integration."
+  },
+  {
+    "id": "galaxy-watch-ultra",
+    "name": "Samsung Galaxy Watch Ultra",
+    "brand": "Samsung",
+    "category": "wearables",
+    "price": 97499,
+    "currency": "KES",
+    "stock": 16,
+    "description": "Rugged Android smartwatch with long battery life for outdoor adventures."
+  },
+  {
+    "id": "pixel-watch-3",
+    "name": "Google Pixel Watch 3",
+    "brand": "Google",
+    "category": "wearables",
+    "price": 52499,
+    "currency": "KES",
+    "stock": 22,
+    "description": "Round Android smartwatch with Fitbit health tracking and loss of pulse detection."
+  },
+  {
+    "id": "garmin-forerunner-265",
+    "name": "Garmin Forerunner 265",
+    "brand": "Garmin",
+    "category": "wearables",
+    "price": 67499,
+    "currency": "KES",
+    "stock": 0,
+    "description": "GPS running watch with training readiness, race predictions and an AMOLED screen."
+  },
+  {
+    "id": "garmin-fenix-8",
+    "name": "Garmin Fenix 8",
+    "brand": "Garmin",
+    "category": "wearables",
+    "price": 149999,
+    "currency": "KES",
+    "stock": 38,
+    "description": "Premium multisport GPS watch with maps, a flashlight and weeks of battery for adventurers."
+  },
+  {
+    "id": "garmin-venu-3",
+    "name": "Garmin Venu 3",
+    "brand": "Garmin",
+    "category": "wearables",
+    "price": 67499,
+    "currency": "KES",
+    "stock": 5,
+    "description": "Health and fitness smartwatch with sleep coaching and a bright AMOLED display."
+  },
+  {
+    "id": "fitbit-charge-6",
+    "name": "Fitbit Charge 6",
+    "brand": "Fitbit",
+    "category": "wearables",
+    "price": 23999,
+    "currency": "KES",
+    "stock": 4,
+    "description": "Fitness tracker band with heart rate, built-in GPS and a week of battery."
+  },
+  {
+    "id": "fitbit-inspire-3",
+    "name": "Fitbit Inspire 3",
+    "brand": "Fitbit",
+    "category": "wearables",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 3,
+    "description": "Simple, cheap fitness tracker that counts steps and tracks sleep."
+  },
+  {
+    "id": "xiaomi-smart-band-9",
+    "name": "Xiaomi Smart Band 9",
+    "brand": "Xiaomi",
+    "category": "wearables",
+    "price": 7499,
+    "currency": "KES",
+    "stock": 5,
+    "description": "Very affordable fitness band with step counting, sleep tracking and two weeks of battery."
+  },
+  {
+    "id": "amazfit-gtr-4",
+    "name": "Amazfit GTR 4",
+    "brand": "Amazfit",
+    "category": "wearables",
+    "price": 29999,
+    "currency": "KES",
+    "stock": 18,
+    "description": "Classic-looking smartwatch with GPS, health monitoring and two weeks of battery."
+  },
+  {
+    "id": "huawei-watch-gt-4",
+    "name": "Huawei Watch GT 4",
+    "brand": "Huawei",
+    "category": "wearables",
+    "price": 37499,
+    "currency": "KES",
+    "stock": 14,
+    "description": "Elegant smartwatch with fitness tracking and up to 14 days of battery life."
+  },
+  {
+    "id": "sony-a7-iv",
+    "name": "Sony Alpha 7 IV",
+    "brand": "Sony",
+    "category": "cameras",
+    "price": 374999,
+    "currency": "KES",
+    "stock": 37,
+    "description": "Full-frame mirrorless camera for professional photography and 4K video."
+  },
+  {
+    "id": "sony-zv-e10",
+    "name": "Sony ZV-E10 II",
+    "brand": "Sony",
+    "category": "cameras",
+    "price": 149999,
+    "currency": "KES",
+    "stock": 16,
+    "description": "Interchangeable-lens vlogging camera with a flip screen and great autofocus for YouTubers."
+  },
+  {
+    "id": "canon-eos-r50",
+    "name": "Canon EOS R50",
+    "brand": "Canon",
+    "category": "cameras",
+    "price": 101999,
+    "currency": "KES",
+    "stock": 27,
+    "description": "Beginner-friendly mirrorless camera with a kit lens, easy guided menus and 4K video."
+  },
+  {
+    "id": "canon-eos-r6-ii",
+    "name": "Canon EOS R6 Mark II",
+    "brand": "Canon",
+    "category": "cameras",
+    "price": 374999,
+    "currency": "KES",
+    "stock": 7,
+    "description": "Fast full-frame mirrorless camera for sports and wildlife photography."
+  },
+  {
+    "id": "nikon-z50",
+    "name": "Nikon Z50 II",
+    "brand": "Nikon",
+    "category": "cameras",
+    "price": 128999,
+    "currency": "KES",
+    "stock": 23,
+    "description": "Compact APS-C mirrorless camera for travel and family photos."
+  },
+  {
+    "id": "fujifilm-x100vi",
+    "name": "Fujifilm X100VI",
+    "brand": "Fujifilm",
+    "category": "cameras",
+    "price": 239999,
+    "currency": "KES",
+    "stock": 30,
+    "description": "Premium compact camera with a fixed lens and film simulations for street photography."
+  },
+  {
+    "id": "instax-mini-12",
+    "name": "Fujifilm Instax Mini 12",
+    "brand": "Fujifilm",
+    "category": "cameras",
+    "price": 11999,
+    "currency": "KES",
+    "stock": 4,
+    "description": "Instant camera that prints credit-card-sized photos immediately, fun for parties."
+  },
+  {
+    "id": "gopro-hero-13",
+    "name": "GoPro HERO13 Black",
+    "brand": "GoPro",
+    "category": "cameras",
+    "price": 59999,
+    "currency": "KES",
+    "stock": 7,
+    "description": "Waterproof action camera for surfing, biking and skiing with 5.3K video and stabilisation."
+  },
+  {
+    "id": "dji-osmo-pocket-3",
+    "name": "DJI Osmo Pocket 3",
+    "brand": "DJI",
+    "category": "cameras",
+    "price": 77999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Pocket gimbal camera with a 1-inch sensor for smooth handheld vlogging."
+  },
+  {
+    "id": "dji-mini-4-pro",
+    "name": "DJI Mini 4 Pro",
+    "brand": "DJI",
+    "category": "cameras",
+    "price": 113999,
+    "currency": "KES",
+    "stock": 7,
+    "description": "Small camera drone under 249g that records 4K aerial video with obstacle avoidance."
+  },
+  {
+    "id": "insta360-x4",
+    "name": "Insta360 X4",
+    "brand": "Insta360",
+    "category": "cameras",
+    "price": 74999,
+    "currency": "KES",
+    "stock": 13,
+    "description": "360-degree action camera that captures everything around you in 8K."
+  },
+  {
+    "id": "logitech-c920",
+    "name": "Logitech C920 HD Pro Webcam",
+    "brand": "Logitech",
+    "category": "cameras",
+    "price": 10499,
+    "currency": "KES",
+    "stock": 9,
+    "description": "Full HD 1080p webcam for video calls, Zoom meetings and streaming."
+  },
+  {
+    "id": "case-iphone-16-pro-silicone",
+    "name": "iPhone 16 Pro Silicone Case with MagSafe",
+    "brand": "Apple",
+    "category": "accessories",
+    "price": 7499,
+    "currency": "KES",
+    "stock": 18,
+    "description": "Soft-touch silicone cover for the iPhone 16 Pro with MagSafe magnets."
+  },
+  {
+    "id": "case-iphone-16-clear",
+    "name": "iPhone 16 Clear Case with MagSafe",
+    "brand": "Apple",
+    "category": "accessories",
+    "price": 7499,
+    "currency": "KES",
+    "stock": 5,
+    "description": "Transparent protective case for the iPhone 16 that shows off the phone colour."
+  },
+  {
+    "id": "case-iphone-15-silicone",
+    "name": "iPhone 15 Silicone Case",
+    "brand": "Apple",
+    "category": "accessories",
+    "price": 7499,
+    "currency": "KES",
+    "stock": 36,
+    "description": "Soft protective cover for the iPhone 15, available in several colours."
+  },
+  {
+    "id": "case-iphone-15-pro-leather",
+    "name": "iPhone 15 Pro FineWoven Case",
+    "brand": "Apple",
+    "category": "accessories",
+    "price": 8999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Premium woven fabric case for the iPhone 15 Pro with MagSafe."
+  },
+  {
+    "id": "case-iphone-14-clear",
+    "name": "iPhone 14 Clear Case",
+    "brand": "Spigen",
+    "category": "accessories",
+    "price": 1999,
+    "currency": "KES",
+    "stock": 35,
+    "description": "Slim clear bumper case for the iPhone 14 with raised edges to protect the camera."
+  },
+  {
+    "id": "case-galaxy-s25-ultra-rugged",
+    "name": "Galaxy S25 Ultra Rugged Case",
+    "brand": "Samsung",
+    "category": "accessories",
+    "price": 5999,
+    "currency": "KES",
+    "stock": 6,
+    "description": "Heavy-duty drop protection case for the Galaxy S25 Ultra with a kickstand."
+  },
+  {
+    "id": "case-galaxy-s24-clear",
+    "name": "Galaxy S24 Clear Case",
+    "brand": "Samsung",
+    "category": "accessories",
+    "price": 2999,
+    "currency": "KES",
+    "stock": 16,
+    "description": "Thin transparent case for the Samsung Galaxy S24."
+  },
+  {
+    "id": "case-pixel-9-pro",
+    "name": "Pixel 9 Pro Case",
+    "brand": "Google",
+    "category": "accessories",
+    "price": 4499,
+    "currency": "KES",
+    "stock": 32,
+    "description": "Recycled-material protective case for the Google Pixel 9 Pro."
+  },
+  {
+    "id": "otterbox-defender-iphone-16",
+    "name": "OtterBox Defender for iPhone 16",
+    "brand": "OtterBox",
+    "category": "accessories",
+    "price": 8999,
+    "currency": "KES",
+    "stock": 26,
+    "description": "Military-grade rugged case for the iPhone 16 for construction sites and outdoor work."
+  },
+  {
+    "id": "spigen-tough-armor-s25",
+    "name": "Spigen Tough Armor for Galaxy S25",
+    "brand": "Spigen",
+    "category": "accessories",
+    "price": 3999,
+    "currency": "KES",
+    "stock": 11,
+    "description": "Dual-layer shockproof case for the Galaxy S25 with a built-in kickstand."
+  },
+  {
+    "id": "wallet-case-iphone-15",
+    "name": "iPhone 15 Leather Wallet Case",
+    "brand": "Bellroy",
+    "category": "accessories",
+    "price": 10499,
+    "currency": "KES",
+    "stock": 25,
+    "description": "Leather case for the iPhone 15 that holds three cards and cash, so you can leave your wallet at home."
+  },
+  {
+    "id": "screen-protector-iphone-16",
+    "name": "iPhone 16 Tempered Glass Screen Protector (2-pack)",
+    "brand": "ZAGG",
+    "category": "accessories",
+    "price": 4499,
+    "currency": "KES",
+    "stock": 30,
+    "description": "Tempered glass screen protector that prevents scratches and cracks on the iPhone 16 display."
+  },
+  {
+    "id": "screen-protector-galaxy-s24",
+    "name": "Galaxy S24 Screen Protector",
+    "brand": "Spigen",
+    "category": "accessories",
+    "price": 2999,
+    "currency": "KES",
+    "stock": 36,
+    "description": "Tempered glass protector for the Samsung Galaxy S24 screen with easy installation."
+  },
+  {
+    "id": "ipad-air-smart-folio",
+    "name": "Smart Folio for iPad Air",
+    "brand": "Apple",
+    "category": "accessories",
+    "price": 11999,
+    "currency": "KES",
+    "stock": 32,
+    "description": "Thin magnetic cover for the iPad Air that folds into a stand and wakes the screen."
+  },
+  {
+    "id": "ipad-keyboard-case",
+    "name": "Logitech Combo Touch for iPad (10th gen)",
+    "brand": "Logitech",
+    "category": "accessories",
+    "price": 23999,
+    "currency": "KES",
+    "stock": 19,
+    "description": "Keyboard case with a trackpad that turns the iPad into a laptop for typing."
+  },
+  {
+    "id": "macbook-sleeve",
+    "name": "13-inch Laptop Sleeve",
+    "brand": "Incase",
+    "category": "accessories",
+    "price": 5999,
+    "currency": "KES",
+    "stock": 4,
+    "description": "Padded sleeve that protects a 13-inch MacBook or laptop inside your bag."
+  },
+  {
+    "id": "laptop-backpack",
+    "name": "Anti-Theft Laptop Backpack 15.6-inch",
+    "brand": "Targus",
+    "category": "accessories",
+    "price": 10499,
+    "currency": "KES",
+    "stock": 35,
+    "description": "Water-resistant backpack with a padded laptop compartment, hidden zips and a USB charging port."
+  },
+  {
+    "id": "waterproof-phone-pouch",
+    "name": "Waterproof Phone Pouch",
+    "brand": "JOTO",
+    "category": "accessories",
+    "price": 1999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Sealed waterproof bag that keeps your phone dry at the beach, pool or on a boat."
+  },
+  {
+    "id": "popsocket",
+    "name": "PopSockets PopGrip",
+    "brand": "PopSockets",
+    "category": "accessories",
+    "price": 1999,
+    "currency": "KES",
+    "stock": 4,
+    "description": "Expanding grip and stand that sticks to the back of your phone for one-handed use."
+  },
+  {
+    "id": "car-phone-mount",
+    "name": "Magnetic Car Phone Mount",
+    "brand": "iOttie",
+    "category": "accessories",
+    "price": 4999,
+    "currency": "KES",
+    "stock": 33,
+    "description": "Dashboard or air vent mount that holds your phone for navigation while driving."
+  },
+  {
+    "id": "apple-20w-usbc",
+    "name": "Apple 20W USB-C Power Adapter",
+    "brand": "Apple",
+    "category": "power",
+    "price": 2999,
+    "currency": "KES",
+    "stock": 34,
+    "description": "Official Apple wall charger for fast charging iPhone and iPad."
+  },
+  {
+    "id": "samsung-25w-charger",
+    "name": "Samsung 25W Super Fast Charger",
+    "brand": "Samsung",
+    "category": "power",
+    "price": 2999,
+    "currency": "KES",
+    "stock": 33,
+    "description": "USB-C wall charger for super fast charging Samsung Galaxy phones."
+  },
+  {
+    "id": "anker-nano-30w",
+    "name": "Anker Nano 30W USB-C Charger",
+    "brand": "Anker",
+    "category": "power",
+    "price": 3499,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Tiny GaN wall charger that fast charges phones and small tablets."
+  },
+  {
+    "id": "anker-65w-gan",
+    "name": "Anker 65W GaN Charger (3 ports)",
+    "brand": "Anker",
+    "category": "power",
+    "price": 7499,
+    "currency": "KES",
+    "stock": 39,
+    "description": "Compact charger that powers a laptop, phone and earbuds at the same time."
+  },
+  {
+    "id": "ugreen-100w",
+    "name": "UGREEN Nexode 100W 4-Port Charger",
+    "brand": "UGREEN",
+    "category": "power",
+    "price": 10499,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Desktop charging station with four ports that can charge a MacBook Pro and phones together."
+  },
+  {
+    "id": "magsafe-charger",
+    "name": "Apple MagSafe Charger",
+    "brand": "Apple",
+    "category": "power",
+    "price": 5999,
+    "currency": "KES",
+    "stock": 26,
+    "description": "Magnetic wireless charging puck that snaps onto the back of an iPhone."
+  },
+  {
+    "id": "belkin-3in1-magsafe",
+    "name": "Belkin BoostCharge Pro 3-in-1 MagSafe Stand",
+    "brand": "Belkin",
+    "category": "power",
+    "price": 19499,
+    "currency": "KES",
+    "stock": 37,
+    "description": "Bedside charging stand for iPhone, Apple Watch and AirPods at the same time."
+  },
+  {
+    "id": "anker-powercore-10000",
+    "name": "Anker PowerCore 10000",
+    "brand": "Anker",
+    "category": "power",
+    "price": 3999,
+    "currency": "KES",
+    "stock": 39,
+    "description": "Pocket-sized power bank that recharges a phone about twice when you are away from a socket."
+  },
+  {
+    "id": "anker-737-powerbank",
+    "name": "Anker 737 Power Bank 24000mAh",
+    "brand": "Anker",
+    "category": "power",
+    "price": 16499,
+    "currency": "KES",
+    "stock": 0,
+    "description": "High-capacity 140W power bank that can recharge a laptop on the go."
+  },
+  {
+    "id": "xiaomi-20000-powerbank",
+    "name": "Xiaomi 20000mAh Power Bank",
+    "brand": "Xiaomi",
+    "category": "power",
+    "price": 4999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Large-capacity portable battery for charging phones several times on long trips."
+  },
+  {
+    "id": "usbc-lightning-cable",
+    "name": "USB-C to Lightning Cable 1m",
+    "brand": "Apple",
+    "category": "power",
+    "price": 2999,
+    "currency": "KES",
+    "stock": 37,
+    "description": "Charging and sync cable for older iPhones with a Lightning port."
+  },
+  {
+    "id": "usbc-cable-240w",
+    "name": "USB-C to USB-C Cable 2m 240W",
+    "brand": "Anker",
+    "category": "power",
+    "price": 1999,
+    "currency": "KES",
+    "stock": 17,
+    "description": "Long braided USB-C cable for fast charging laptops, phones and tablets."
+  },
+  {
+    "id": "usba-usbc-cable",
+    "name": "USB-A to USB-C Cable 1m",
+    "brand": "UGREEN",
+    "category": "power",
+    "price": 1499,
+    "currency": "KES",
+    "stock": 21,
+    "description": "Cable for charging USB-C phones from an older USB-A charger or computer port."
+  },
+  {
+    "id": "car-charger-usbc",
+    "name": "Dual USB-C Car Charger 40W",
+    "brand": "Anker",
+    "category": "power",
+    "price": 3999,
+    "currency": "KES",
+    "stock": 26,
+    "description": "Car cigarette lighter charger that fast charges two phones while driving."
+  },
+  {
+    "id": "wireless-charging-pad",
+    "name": "15W Wireless Charging Pad",
+    "brand": "Belkin",
+    "category": "power",
+    "price": 4499,
+    "currency": "KES",
+    "stock": 20,
+    "description": "Flat Qi wireless charger: just place any compatible phone on it to charge."
+  },
+  {
+    "id": "apple-watch-charger",
+    "name": "Apple Watch Magnetic Fast Charger (USB-C)",
+    "brand": "Apple",
+    "category": "power",
+    "price": 4499,
+    "currency": "KES",
+    "stock": 5,
+    "description": "Replacement magnetic charging cable for the Apple Watch."
+  },
+  {
+    "id": "travel-adapter",
+    "name": "Universal Travel Adapter with USB-C",
+    "brand": "EPICKA",
+    "category": "power",
+    "price": 4499,
+    "currency": "KES",
+    "stock": 0,
+    "description": "All-in-one plug adapter for travelling to the UK, Europe, US and Australia with USB ports."
+  },
+  {
+    "id": "usbc-hub-7in1",
+    "name": "USB-C Hub 7-in-1",
+    "brand": "Anker",
+    "category": "power",
+    "price": 5999,
+    "currency": "KES",
+    "stock": 37,
+    "description": "Adds HDMI, USB-A ports and an SD card reader to a laptop that only has USB-C."
+  },
+  {
+    "id": "solar-powerbank",
+    "name": "Solar Power Bank 26800mAh",
+    "brand": "BLAVOR",
+    "category": "power",
+    "price": 5999,
+    "currency": "KES",
+    "stock": 5,
+    "description": "Rugged power bank with a solar panel and flashlight for camping and power cuts."
+  },
+  {
+    "id": "ups-router-mini",
+    "name": "Mini UPS for Wi-Fi Router",
+    "brand": "TP-Link",
+    "category": "power",
+    "price": 6999,
+    "currency": "KES",
+    "stock": 33,
+    "description": "Small battery backup that keeps your router and internet running during a blackout."
+  },
+  {
+    "id": "echo-dot-5",
+    "name": "Amazon Echo Dot (5th gen)",
+    "brand": "Amazon",
+    "category": "smart-home",
+    "price": 7499,
+    "currency": "KES",
+    "stock": 23,
+    "description": "Small smart speaker with Alexa for music, timers and controlling smart home devices by voice."
+  },
+  {
+    "id": "echo-show-8",
+    "name": "Amazon Echo Show 8",
+    "brand": "Amazon",
+    "category": "smart-home",
+    "price": 22499,
+    "currency": "KES",
+    "stock": 16,
+    "description": "Smart display with Alexa for video calls, recipes and viewing security cameras."
+  },
+  {
+    "id": "nest-mini",
+    "name": "Google Nest Mini",
+    "brand": "Google",
+    "category": "smart-home",
+    "price": 7499,
+    "currency": "KES",
+    "stock": 11,
+    "description": "Compact smart speaker with Google Assistant for questions, music and smart home control."
+  },
+  {
+    "id": "nest-hub-2",
+    "name": "Google Nest Hub (2nd gen)",
+    "brand": "Google",
+    "category": "smart-home",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 35,
+    "description": "Smart display with Google Assistant that also tracks your sleep from the bedside."
+  },
+  {
+    "id": "homepod-mini",
+    "name": "Apple HomePod mini",
+    "brand": "Apple",
+    "category": "smart-home",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 40,
+    "description": "Small Siri smart speaker with rich sound that works with iPhone and Apple Music."
+  },
+  {
+    "id": "sonos-era-100",
+    "name": "Sonos Era 100",
+    "brand": "Sonos",
+    "category": "smart-home",
+    "price": 37499,
+    "currency": "KES",
+    "stock": 34,
+    "description": "Premium Wi-Fi speaker for room-filling stereo sound that can be part of a multi-room system."
+  },
+  {
+    "id": "jbl-flip-6",
+    "name": "JBL Flip 6",
+    "brand": "JBL",
+    "category": "smart-home",
+    "price": 19499,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Portable waterproof Bluetooth speaker for the beach, pool parties and outdoors."
+  },
+  {
+    "id": "jbl-charge-5",
+    "name": "JBL Charge 5",
+    "brand": "JBL",
+    "category": "smart-home",
+    "price": 26999,
+    "currency": "KES",
+    "stock": 20,
+    "description": "Loud portable Bluetooth speaker with 20 hours of battery that can also charge your phone."
+  },
+  {
+    "id": "ue-wonderboom-4",
+    "name": "Ultimate Ears Wonderboom 4",
+    "brand": "Ultimate Ears",
+    "category": "smart-home",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 7,
+    "description": "Small rugged speaker that floats in water and survives drops."
+  },
+  {
+    "id": "marshall-emberton-iii",
+    "name": "Marshall Emberton III",
+    "brand": "Marshall",
+    "category": "smart-home",
+    "price": 25499,
+    "currency": "KES",
+    "stock": 9,
+    "description": "Compact portable speaker with vintage style and 32+ hours of playtime."
+  },
+  {
+    "id": "ring-video-doorbell",
+    "name": "Ring Video Doorbell",
+    "brand": "Ring",
+    "category": "smart-home",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 7,
+    "description": "Doorbell with a camera so you can see and talk to visitors from your phone."
+  },
+  {
+    "id": "tapo-c200",
+    "name": "TP-Link Tapo C200 Security Camera",
+    "brand": "TP-Link",
+    "category": "smart-home",
+    "price": 4499,
+    "currency": "KES",
+    "stock": 10,
+    "description": "Cheap indoor Wi-Fi camera with pan and tilt, night vision and motion alerts to watch your home or baby."
+  },
+  {
+    "id": "philips-hue-starter",
+    "name": "Philips Hue White and Colour Starter Kit",
+    "brand": "Philips",
+    "category": "smart-home",
+    "price": 29999,
+    "currency": "KES",
+    "stock": 39,
+    "description": "Smart light bulbs you can dim and change colour from your phone or voice assistant."
+  },
+  {
+    "id": "deco-mesh-wifi",
+    "name": "TP-Link Deco X50 Mesh Wi-Fi (3-pack)",
+    "brand": "TP-Link",
+    "category": "smart-home",
+    "price": 37499,
+    "currency": "KES",
+    "stock": 22,
+    "description": "Mesh Wi-Fi system that removes dead zones and gives strong internet in every room of a large house."
+  },
+  {
+    "id": "huawei-4g-mifi",
+    "name": "Huawei E5576 4G MiFi",
+    "brand": "Huawei",
+    "category": "smart-home",
+    "price": 7499,
+    "currency": "KES",
+    "stock": 17,
+    "description": "Pocket Wi-Fi hotspot: insert a Safaricom or Airtel SIM card to share mobile data with up to 16 devices."
+  },
+  {
+    "id": "chromecast-google-tv",
+    "name": "Google TV Streamer",
+    "brand": "Google",
+    "category": "smart-home",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 17,
+    "description": "Plugs into your TV to stream Netflix, YouTube and live TV in 4K."
+  },
+  {
+    "id": "ps5-slim",
+    "name": "PlayStation 5 Slim (Disc Edition)",
+    "brand": "Sony",
+    "category": "gaming",
+    "price": 74999,
+    "currency": "KES",
+    "stock": 4,
+    "description": "Sony home game console with a disc drive for exclusive games like Spider-Man."
+  },
+  {
+    "id": "ps5-pro",
+    "name": "PlayStation 5 Pro",
+    "brand": "Sony",
+    "category": "gaming",
+    "price": 104999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "The most powerful PlayStation with enhanced graphics for 4K gaming."
+  },
+  {
+    "id": "dualsense",
+    "name": "DualSense Wireless Controller",
+    "brand": "Sony",
+    "category": "gaming",
+    "price": 10999,
+    "currency": "KES",
+    "stock": 18,
+    "description": "PS5 controller with haptic feedback and adaptive triggers."
+  },
+  {
+    "id": "xbox-series-x",
+    "name": "Xbox Series X",
+    "brand": "Microsoft",
+    "category": "gaming",
+    "price": 74999,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Microsoft's most powerful console for 4K gaming and Game Pass."
+  },
+  {
+    "id": "xbox-series-s",
+    "name": "Xbox Series S",
+    "brand": "Microsoft",
+    "category": "gaming",
+    "price": 44999,
+    "currency": "KES",
+    "stock": 9,
+    "description": "Small all-digital Xbox console that is the cheapest way to play Game Pass games."
+  },
+  {
+    "id": "xbox-controller",
+    "name": "Xbox Wireless Controller",
+    "brand": "Microsoft",
+    "category": "gaming",
+    "price": 8999,
+    "currency": "KES",
+    "stock": 17,
+    "description": "Wireless controller for Xbox consoles and Windows PCs."
+  },
+  {
+    "id": "switch-oled",
+    "name": "Nintendo Switch OLED",
+    "brand": "Nintendo",
+    "category": "gaming",
+    "price": 52499,
+    "currency": "KES",
+    "stock": 29,
+    "description": "Handheld and TV game console with a vivid OLED screen, perfect for Mario and family games."
+  },
+  {
+    "id": "switch-2",
+    "name": "Nintendo Switch 2",
+    "brand": "Nintendo",
+    "category": "gaming",
+    "price": 67499,
+    "currency": "KES",
+    "stock": 28,
+    "description": "Nintendo's newest hybrid console with a bigger screen and magnetic Joy-Con controllers."
+  },
+  {
+    "id": "switch-pro-controller",
+    "name": "Nintendo Switch Pro Controller",
+    "brand": "Nintendo",
+    "category": "gaming",
+    "price": 10499,
+    "currency": "KES",
+    "stock": 8,
+    "description": "Traditional wireless controller for comfortable long sessions on the Nintendo Switch."
+  },
+  {
+    "id": "steam-deck-oled",
+    "name": "Steam Deck OLED 512GB",
+    "brand": "Valve",
+    "category": "gaming",
+    "price": 82499,
+    "currency": "KES",
+    "stock": 0,
+    "description": "Handheld gaming PC that plays your Steam library of PC games anywhere."
+  },
+  {
+    "id": "meta-quest-3",
+    "name": "Meta Quest 3 512GB",
+    "brand": "Meta",
+    "category": "gaming",
+    "price": 74999,
+    "currency": "KES",
+    "stock": 10,
+    "description": "Virtual and mixed reality headset for immersive games and fitness, no PC needed."
+  },
+  {
+    "id": "meta-quest-3s",
+    "name": "Meta Quest 3S 128GB",
+    "brand": "Meta",
+    "category": "gaming",
+    "price": 44999,
+    "currency": "KES",
+    "stock": 24,
+    "description": "Affordable standalone VR headset for getting started with virtual reality."
+  },
+  {
+    "id": "razer-kishi-v2",
+    "name": "Razer Kishi V2",
+    "brand": "Razer",
+    "category": "gaming",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 10,
+    "description": "Controller that clips onto your phone to turn it into a handheld game console."
+  },
+  {
+    "id": "ea-fc-25-ps5",
+    "name": "EA Sports FC 25 (PS5)",
+    "brand": "EA",
+    "category": "gaming",
+    "price": 10499,
+    "currency": "KES",
+    "stock": 3,
+    "description": "Football video game for PlayStation 5 with real clubs and players."
+  },
+  {
+    "id": "mx-master-3s",
+    "name": "Logitech MX Master 3S",
+    "brand": "Logitech",
+    "category": "computer",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 3,
+    "description": "Ergonomic wireless mouse for productivity with quiet clicks and a fast scroll wheel."
+  },
+  {
+    "id": "g-pro-superlight-2",
+    "name": "Logitech G Pro X Superlight 2",
+    "brand": "Logitech",
+    "category": "computer",
+    "price": 23999,
+    "currency": "KES",
+    "stock": 14,
+    "description": "Ultra-light wireless gaming mouse used by esports professionals."
+  },
+  {
+    "id": "logitech-m185",
+    "name": "Logitech M185 Wireless Mouse",
+    "brand": "Logitech",
+    "category": "computer",
+    "price": 1999,
+    "currency": "KES",
+    "stock": 7,
+    "description": "Cheap compact wireless mouse with a USB receiver for laptops."
+  },
+  {
+    "id": "magic-keyboard",
+    "name": "Apple Magic Keyboard",
+    "brand": "Apple",
+    "category": "computer",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 36,
+    "description": "Slim wireless rechargeable keyboard for Mac and iPad."
+  },
+  {
+    "id": "mx-keys-s",
+    "name": "Logitech MX Keys S",
+    "brand": "Logitech",
+    "category": "computer",
+    "price": 16499,
+    "currency": "KES",
+    "stock": 27,
+    "description": "Comfortable backlit wireless keyboard that switches between three computers."
+  },
+  {
+    "id": "keychron-k2",
+    "name": "Keychron K2 Mechanical Keyboard",
+    "brand": "Keychron",
+    "category": "computer",
+    "price": 13499,
+    "currency": "KES",
+    "stock": 10,
+    "description": "Compact wireless mechanical keyboard for Mac and Windows with tactile switches for typing and coding."
+  },
+  {
+    "id": "razer-blackwidow-v4",
+    "name": "Razer BlackWidow V4",
+    "brand": "Razer",
+    "category": "computer",
+    "price": 25499,
+    "currency": "KES",
+    "stock": 16,
+    "description": "RGB mechanical gaming keyboard with macro keys and a wrist rest."
+  },
+  {
+    "id": "dell-ultrasharp-27-4k",
+    "name": "Dell UltraSharp 27 4K USB-C Monitor",
+    "brand": "Dell",
+    "category": "computer",
+    "price": 86999,
+    "currency": "KES",
+    "stock": 12,
+    "description": "27-inch 4K monitor with accurate colours and USB-C that charges your laptop with one cable."
+  },
+  {
+    "id": "lg-ultragear-27",
+    "name": "LG UltraGear 27-inch 165Hz Gaming Monitor",
+    "brand": "LG",
+    "category": "computer",
+    "price": 37499,
+    "currency": "KES",
+    "stock": 2,
+    "description": "Fast 165Hz QHD gaming monitor with 1ms response time."
+  },
+  {
+    "id": "samsung-odyssey-g9",
+    "name": "Samsung Odyssey OLED G9 49-inch",
+    "brand": "Samsung",
+    "category": "computer",
+    "price": 194999,
+    "currency": "KES",
+    "stock": 22,
+    "description": "Super-ultrawide curved 49-inch OLED gaming monitor."
+  },
+  {
+    "id": "samsung-t7-1tb",
+    "name": "Samsung T7 Portable SSD 1TB",
+    "brand": "Samsung",
+    "category": "computer",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 27,
+    "description": "Pocket-sized fast external SSD for backing up photos and transferring large files."
+  },
+  {
+    "id": "sandisk-extreme-2tb",
+    "name": "SanDisk Extreme Portable SSD 2TB",
+    "brand": "SanDisk",
+    "category": "computer",
+    "price": 25499,
+    "currency": "KES",
+    "stock": 16,
+    "description": "Rugged water-resistant external SSD for photographers and video editors on the go."
+  },
+  {
+    "id": "wd-elements-4tb",
+    "name": "WD Elements 4TB External Hard Drive",
+    "brand": "Western Digital",
+    "category": "computer",
+    "price": 14999,
+    "currency": "KES",
+    "stock": 7,
+    "description": "Large cheap external hard drive for backups and storing movies."
+  },
+  {
+    "id": "sandisk-usb-128gb",
+    "name": "SanDisk Ultra 128GB USB Flash Drive",
+    "brand": "SanDisk",
+    "category": "computer",
+    "price": 1999,
+    "currency": "KES",
+    "stock": 3,
+    "description": "Small USB stick for carrying documents and files between computers."
+  },
+  {
+    "id": "samsung-evo-microsd-256",
+    "name": "Samsung EVO Plus 256GB microSD Card",
+    "brand": "Samsung",
+    "category": "computer",
+    "price": 3999,
+    "currency": "KES",
+    "stock": 15,
+    "description": "Memory card to add storage to phones, Nintendo Switch, drones and action cameras."
+  },
+  {
+    "id": "epson-ecotank",
+    "name": "Epson EcoTank ET-2850 Printer",
+    "brand": "Epson",
+    "category": "computer",
+    "price": 41999,
+    "currency": "KES",
+    "stock": 30,
+    "description": "Home printer with refillable ink tanks that is very cheap to run, also scans and copies."
+  }
+]

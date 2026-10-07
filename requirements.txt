@@ -1,0 +1,10 @@
+# Install torch + torchvision first (see README), then: pip install -r requirements.txt
+sentence-transformers==6.1.0
+transformers==5.19.0
+huggingface_hub==1.33.0
+pillow==12.3.0
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+requests
+psutil
+matplotlib

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shop Search · Msodoki</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- Msodoki brand type: IBM Plex Sans (400/600), Serif (400), Mono (400/500). -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Serif:ital,wght@0,400;1,400&display=swap"
+    />
+    <!-- Same as @ianmuchesia/theme's themeInitScript: apply the saved mode before first paint. -->
+    <script>
+      (function () {
+        var d = document.documentElement
+        try {
+          var m = document.cookie.match(/(?:^|; )theme=(light|dark)(?:;|$)/)
+          d.dataset.theme = m ? m[1] : 'light'
+        } catch (e) {
+          d.dataset.theme = 'light'
+        }
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
